@@ -1,2 +1,2 @@
 # Locate Ship
-[Ship locator](https://jivjgfjzkf.github.io/getShipped/).
+[Ship locator](https://jivjgfjzkf.github.io/get_shipped/).
